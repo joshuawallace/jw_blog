@@ -1,29 +1,25 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "About Me"
+date = "2018-05-30"
 +++
 
-Hugo is a static site engine written in Go.
+I am a Ph.D. Candidate at Princeton University in the Department of Astrophysical Sciences. In my current research, I look for periodic signals in time series data.  The type of signals I am most interested in (transiting exoplanets) usually have low signal-to-noise ratios, so I spend a lot of time thinking about how to differentiate these signals from the noise.  Also in my Ph.D., I have developed and published on a Monte Carlo code that simulates detection of neutrinos from supernovae and have ran and analyzed results from hundreds of N-body simulations.
 
+I have also [published a short eBook](https://www.amazon.com/Acing-School-Application-Joshua-Wallace-ebook/dp/B01CM3HZL4/ref=sr_1_1?ie=UTF8&qid=1527708423&sr=8-1&keywords=acing+the+grad+school+application) on how to successfully apply for graduate school.
 
-It makes use of a variety of open source projects including:
+# Links
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+Feel free to look up more of my work or contact me through the icon links on the left or listed below.
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+- [My academic website](www.astro.princeton.edu/~joshuajw)
+- [Github](https://github.com/joshuawallace)
+- Stack Exchange?
+- [LinkedIn](https://www.linkedin.com/in/joshua-wallace-astro/)
+- Facebook?
+- [Twitter](https://twitter.com/astro_Joshua)
+- [ORCiD (published research)](http://orcid.org/0000-0001-6135-3086)
+- [Email me](mailto:joshuawallace800@gmail.com)
 
-## Setup
+# About This Site
 
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+This site is powered by [Hugo](https://gohugo.io/), using the [hugo-future-imperfect](https://themes.gohugo.io/theme/future-imperfect/) theme. In interest of sharing, all my blog posts are released under the (to be specified license).

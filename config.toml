@@ -97,7 +97,7 @@ canonifyURLs = true
   # A width of less than 100px is recommended from a design perspective.
   [params.intro.pic]
     src       = "/img/main/me.jpg"
-    # Sets Image to be a cirlce
+    # Sets Image to be a circle
     circle    = true
     # Sets Image to be Future Imperfect's hexagon
     imperfect = false
@@ -117,7 +117,7 @@ canonifyURLs = true
   weight = 1
 
 [[menu.main]]
-  name = "About"
+  name = "About Me"
   url = "/about/"
   identifier = "fa fa-id-card-o"
   weight = 2
@@ -128,11 +128,11 @@ canonifyURLs = true
   identifier = "fa fa-newspaper-o"
   weight = 3
 
-[[menu.main]]
-  name = "Itemized"
-  url = "/itemized/"
-  identifier = "fa fa-list"
-  weight = 4
+#[[menu.main]]
+#  name = "Itemized"
+#  url = "/itemized/"
+#  identifier = "fa fa-list"
+#  weight = 4
 
 [[menu.main]]
   name = "Categories"
