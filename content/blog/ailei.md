@@ -1,7 +1,6 @@
 +++
 author = "Joshua Wallace"
 categories = ["data science", "career exploration"]
-tags = ["data science, career exploration"]
 date = "2018-06-01"
 description = "Thoughts on a meeting hosted by my friend talking about her transition out of academia."
 linktitle= ""

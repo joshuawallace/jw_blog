@@ -1,7 +1,6 @@
 +++
 author = "Joshua Wallace"
 categories = ["data science", "career exploration"]
-tags = ["data science", "career exploration"]
 date = "2018-05-26"
 description = "Talking about my day at DataCamp"
 linktitle = ""

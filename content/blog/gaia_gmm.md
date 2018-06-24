@@ -1,7 +1,6 @@
 +++
 author = "Joshua Wallace"
 categories = ["research", "machine learning"]
-tags = ["research", "gaia", "machine learning"]
 date = "2018-05-31"
 description = "Applying Gaussian Mixture Models to Gaia Data"
 linktitle = ""
