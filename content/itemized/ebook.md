@@ -7,7 +7,7 @@ description = "An eBook I wrote with my thoughts and guidance on successfully ap
 featured = ""
 featuredpath = ""
 featuredalt = ""
-categories = [""]
+categories = ["eBooks"]
 format = "Amazon"
 linktitle = "See the book on Amazon"
 link = "https://www.amazon.com/Acing-School-Application-Joshua-Wallace-ebook/dp/B01CM3HZL4/ref=sr_1_1?ie=UTF8&qid=1529358780&sr=8-1&keywords=acing+the+grad+school+application"
