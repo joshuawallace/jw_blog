@@ -1,2 +1,5 @@
 *~
 themes/
+
+# no public/ directory, as that is tracked separately
+public/
