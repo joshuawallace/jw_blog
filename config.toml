@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "joshuawallace.github.io"
 languageCode = "en-us"
 title = "Joshua Wallace | Astronomer"
 theme = "hugo-future-imperfect"
